@@ -1,12 +1,12 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "COMP2156 lab exercise",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Quinn Seguin",
+  "author": "",
   "license": "ISC"
 }
